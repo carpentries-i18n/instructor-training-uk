@@ -10,7 +10,7 @@
 carpentry: cp
 
 # Overall title for pages.
-remote_theme: swcarpentry-i18n/carp-theme # Theme URL
+remote_theme: carpentries-i18n/carp-theme # Theme URL
 title: Instructor Training
 
 
